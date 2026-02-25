@@ -21,10 +21,10 @@ IAM operates based on the principle of least privilege, meaning users are grante
 
 - Explore pre-created IAM users and user groups
 
--Inspect IAM policies applied to user groups
+- Inspect IAM policies applied to user groups
 
--Add users to groups with specific permissions
+- Add users to groups with specific permissions
 
--Locate and use the IAM sign-in URL
+- Locate and use the IAM sign-in URL
 
--Test how policies affect access to AWS services
+- Test how policies affect access to AWS services
