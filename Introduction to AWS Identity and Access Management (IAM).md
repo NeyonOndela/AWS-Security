@@ -47,6 +47,6 @@ I configured the policy to:
 
 This step reinforced the importance of strong authentication mechanisms in preventing unauthorized access.
 
-<img width ="1000" height="500" alt="instance1" src=
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-Security/blob/ef33e917ae3719db32153a3df9d337d84a0f5b09/resources/secu.jpg" />
 
 
