@@ -49,7 +49,7 @@ This step reinforced the importance of strong authentication mechanisms in preve
 
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-Security/blob/ef33e917ae3719db32153a3df9d337d84a0f5b09/resources/secu.jpg" />
 
---
+
 ## Exploring Pre-Created IAM Users and Groups
 
 Next, I examined pre-created IAM users and groups. Users represent individual identities within AWS, while groups allow administrators to assign permissions collectively.By reviewing the users and groups, I observed how permissions were not assigned directly to users in most cases. Instead, permissions were attached to groups, and users inherited permissions based on group membership. This simplifies administration and improves scalability.
@@ -58,7 +58,7 @@ Next, I examined pre-created IAM users and groups. Users represent individual id
 
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/49072c10d0691dcd9655612c6284a664a1a8a40c/resources/ec6.jpg" />
 
-<img width ="1000" height="500" alt="instance1" src=
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/762f3815d6eeec946bca35056babebf97245237d/resources/ec7.jpg" />
 
 
 
