@@ -30,7 +30,7 @@ IAM operates based on the principle of least privilege, meaning users are grante
 - Test how policies affect access to AWS services
 
 
---
+
 ## Creating and Applying an IAM Password Policy
 
 The first task involved configuring an IAM password policy. This policy enforces password strength requirements for all IAM users within the account.
