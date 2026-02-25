@@ -7,7 +7,7 @@ This project explores **AWS Identity and Access Management (IAM)**, a core AWS s
 
 ---
 
-## Understanding AWS IAM
+## Understanding Aws Iam
 
 AWS Identity and Access Management (IAM) is a global AWS service that allows administrators to securely manage access to AWS resources. IAM enables the creation of users, assignment of permissions, and enforcement of security policies without sharing root account credentials.
 
