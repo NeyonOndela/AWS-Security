@@ -29,7 +29,7 @@ IAM operates based on the principle of least privilege, meaning users are grante
 
 - Test how policies affect access to AWS services
 
---
+
 
 ## Creating and Applying an IAM Password Policy
 
@@ -48,5 +48,15 @@ I configured the policy to:
 This step reinforced the importance of strong authentication mechanisms in preventing unauthorized access.
 
 <img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-Security/blob/ef33e917ae3719db32153a3df9d337d84a0f5b09/resources/secu.jpg" />
+
+--
+## Exploring Pre-Created IAM Users and Groups
+
+Next, I examined pre-created IAM users and groups. Users represent individual identities within AWS, while groups allow administrators to assign permissions collectively.By reviewing the users and groups, I observed how permissions were not assigned directly to users in most cases. Instead, permissions were attached to groups, and users inherited permissions based on group membership. This simplifies administration and improves scalability.
+
+<img width ="1000" height="500" alt="instance1" src=
+
+
+
 
 
