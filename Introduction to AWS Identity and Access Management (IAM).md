@@ -28,3 +28,23 @@ IAM operates based on the principle of least privilege, meaning users are grante
 - Locate and use the IAM sign-in URL
 
 - Test how policies affect access to AWS services
+
+--
+
+## Creating and Applying an IAM Password Policy
+
+The first task involved configuring an IAM password policy. This policy enforces password strength requirements for all IAM users within the account.
+
+I configured the policy to:
+
+- Require a minimum password length
+
+- Include uppercase and lowercase characters
+
+- Require numbers and special characters
+
+- Enforce password expiration
+
+This step reinforced the importance of strong authentication mechanisms in preventing unauthorized access.
+
+
