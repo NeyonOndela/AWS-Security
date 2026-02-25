@@ -72,6 +72,30 @@ By inspecting attached policies, I learned how permissions determine access to A
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/762f3815d6eeec946bca35056babebf97245237d/resources/ec7.jpg" />
 
 
+## Adding Users to Groups
+I then added users to specific groups to grant them predefined permissions. Once a user was added to a group, their access level immediately changed based on the group’s attached policies.This demonstrated how IAM simplifies user management. Instead of editing permissions individually for each user, administrators can manage permissions at the group level.
+
+## Using the IAM Sign-In URL
+The lab also required locating and using the IAM sign-in URL. This URL allows IAM users to log in to the AWS Management Console using their own credentials rather than the root account.Testing login access through the sign-in URL confirmed how policies directly impact what services and actions users can access within the AWS console.
+
+
+## Testing Policy Effects on Service Access
+To fully understand IAM behavior, I experimented with service access using different user accounts. When permissions were restricted, access to certain AWS services was denied. When users belonged to groups with broader permissions, they were able to perform additional actions.
+This hands-on testing clarified how:
+- Group membership controls access
+- Policies define capabilities
+- Security is enforced in real time
+
+  <img width ="1000" height="500" alt="instance1" src=""
+  <img width ="1000" height="500" alt="instance1" src=""
+  <img width ="1000" height="500" alt="instance1" src=""
+
+  
+
+
+
+
+
 
 
 
