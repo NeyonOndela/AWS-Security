@@ -5,7 +5,7 @@ In modern business environments, secure access to systems and resources is criti
 
 This project explores **AWS Identity and Access Management (IAM)**, a core AWS service that enables secure control of access to AWS resources. Through this lab, I gained hands-on experience in managing users, groups, and policies while understanding how access permissions are enforced within the AWS environment.
 
----
+--
 
 ## Understanding Aws Iam
 
@@ -30,7 +30,7 @@ IAM operates based on the principle of least privilege, meaning users are grante
 - Test how policies affect access to AWS services
 
 
-
+--
 ## Creating and Applying an IAM Password Policy
 
 The first task involved configuring an IAM password policy. This policy enforces password strength requirements for all IAM users within the account.
