@@ -47,4 +47,6 @@ I configured the policy to:
 
 This step reinforced the importance of strong authentication mechanisms in preventing unauthorized access.
 
+<img width ="1000" height="500" alt="instance1" src=
+
 
