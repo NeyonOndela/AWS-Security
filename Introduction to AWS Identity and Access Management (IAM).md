@@ -87,7 +87,7 @@ This hands-on testing clarified how:
 - Security is enforced in real time
 
   <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/e584175a92ed0b81a8bf153be80bf33b86272579/resources/sec2.jpg" />
-  <img width ="1000" height="500" alt="instance1" src=""
+  <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/c747ae42b53c87ca37728c2796997dddb730cafd/resources/sec3.jpg" />
   <img width ="1000" height="500" alt="instance1" src=""
 
   
