@@ -69,11 +69,13 @@ By inspecting attached policies, I learned how permissions determine access to A
 
 <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/49072c10d0691dcd9655612c6284a664a1a8a40c/resources/ec6.jpg" />
 
-<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/762f3815d6eeec946bca35056babebf97245237d/resources/ec7.jpg" />
+
 
 
 ## Adding Users to Groups
 I then added users to specific groups to grant them predefined permissions. Once a user was added to a group, their access level immediately changed based on the group’s attached policies.This demonstrated how IAM simplifies user management. Instead of editing permissions individually for each user, administrators can manage permissions at the group level.
+
+<img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/762f3815d6eeec946bca35056babebf97245237d/resources/ec7.jpg" />
 
 ## Using the IAM Sign-In URL
 The lab also required locating and using the IAM sign-in URL. This URL allows IAM users to log in to the AWS Management Console using their own credentials rather than the root account.Testing login access through the sign-in URL confirmed how policies directly impact what services and actions users can access within the AWS console.
@@ -88,8 +90,24 @@ This hands-on testing clarified how:
 
   <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/e584175a92ed0b81a8bf153be80bf33b86272579/resources/sec2.jpg" />
   <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/c747ae42b53c87ca37728c2796997dddb730cafd/resources/sec3.jpg" />
-  <img width ="1000" height="500" alt="instance1" src=""
+  <img width ="1000" height="500" alt="instance1" src="https://github.com/NeyonOndela/AWS-Security/blob/a0b540cc38c97ea11170db35e1b0dfe59920fc18/resources/sec4.jpg" />
 
+
+  
+## Key Learning Outcomes
+- Through this lab, I gained practical experience in:
+- Managing authentication through password policies
+- Implementing authorization using IAM groups and policies
+- Applying the principle of least privilege
+- Understanding policy inheritance
+- Securing AWS environments against unauthorized access
+I also developed a stronger understanding of how access control in cloud environments differs from traditional on-premises systems.
+
+## Conclusion
+This lab provided a foundational understanding of AWS Identity and Access Management and its role in cloud security. IAM is a critical service that ensures secure and controlled access to AWS resources.By creating password policies, managing users and groups, and testing permission boundaries, I developed practical skills in cloud identity management. These skills are essential for designing secure, scalable, and well-governed AWS environments.
+
+**Disclaimer**
+This is an academic project created for educational purposes to demonstrate practical understanding of AWS IAM concepts and access control implementation.
   
 
 
