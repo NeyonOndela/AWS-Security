@@ -1,0 +1,9 @@
+This repository provides a practical introduction to AWS Identity and Access Management (IAM), a core AWS service used to securely control access to cloud resources. IAM enables organizations to manage who can access specific AWS services and what actions they are allowed to perform. It plays a critical role in protecting cloud environments by enforcing authentication and authorization mechanisms.
+
+The project demonstrates how identity and access control function in a real-world AWS environment. It covers the creation and management of IAM users and groups, the application of password policies, and the inspection of IAM policies written in JSON format. Through hands-on configuration, this repository highlights how permissions are assigned using groups rather than individually managing each user, improving scalability and administrative efficiency.
+
+A key focus of this project is understanding the principle of least privilege. Users are granted only the permissions necessary to complete their tasks, reducing security risks and preventing unauthorized access to sensitive resources. The repository also explores how explicit allow and deny rules impact access to AWS services and how policy changes immediately affect user capabilities.
+
+Additionally, the project demonstrates how to locate and use the IAM sign-in URL, allowing users to securely log in with their assigned credentials instead of using the root account. Testing different user roles illustrates how policies directly control service access within the AWS Management Console.
+
+Overall, this repository provides foundational knowledge of AWS IAM concepts and practical experience in implementing secure access control in the cloud. It is designed for beginners who want to understand identity management in AWS and build a strong foundation in cloud security best practices.
